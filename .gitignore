@@ -14,3 +14,7 @@ demo
 bower.json
 node_modules
 npm-debug.log
+
+#mac
+.DS_Store
+.idea
